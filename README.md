@@ -11,7 +11,7 @@
         </p>
         <p>
           Sempre apaixonado por tecnologia, atualmente estudando Desenvolvimento
-          de Software <strong>Back-end Node</strong> na Cubos Academy e Técnico
+          de Software <strong>Backend Node</strong> na Cubos Academy e Técnico
           em Informática para Internet no IFSULDEMINAS.
         </p>
         <p>
