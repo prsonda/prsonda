@@ -111,7 +111,7 @@
       <section>
         <p>
           <img
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=prsonda&layout=compact&custom_title=Linguagens%20%mais%20%utilizadas"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=prsonda&layout=compact&custom_title=Linguagens%20%mais%20%utilizadas&theme=dracula"
             alt="prsonda"
           />
         </p>
