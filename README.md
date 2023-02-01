@@ -112,7 +112,7 @@
         <h3>Grafico</h3>
         <p>
           <img
-            src="https://github-readme-stats.vercel.app/api/top-langs?username=prsonda&show_icons=true&locale=pt&layout=compact&custom-title=Linguagens%20%mais%20%utilizadas"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&custom-title=Linguagens%20%mais%20%utilizadas"
             alt="prsonda"
           />
         </p>
