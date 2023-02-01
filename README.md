@@ -1,16 +1,22 @@
-<main>
+<html>
+  <body>
+    <main>
       <section>
         <h1>Olá pessoal.</h1>
       </section>
       <section>
-        <p id="apresentacao">
+        <p>
           Meu nome é <strong>Paulo</strong> sou paranaense do interior,
           apreciador de doces, gosto de filmes e séries de ficção científica.
+        </p>
+        <p>
           Sempre apaixonado por tecnologia, atualmente estudando Desenvolvimento
           de Software <strong>Back-end Node</strong> na Cubos Academy e Técnico
-          em Informática para Internet no IFSULDEMINAS. Formado em
-          administração, carreira desenvolvida na área de gestão como gerente,
-          coordenador e supervisor.
+          em Informática para Internet no IFSULDEMINAS.
+        </p>
+        <p>
+          Formado em administração, carreira desenvolvida na área de gestão como
+          gerente, coordenador e supervisor.
         </p>
       </section>
       <section>
@@ -88,7 +94,7 @@
               height="60"
             />
           </a>
-            <a
+          <a
             href="https://developer.mozilla.org/en-US /docs/Web/JavaScript"
             target="_blank"
             rel="noreferrer"
@@ -112,3 +118,5 @@
         </p>
       </section>
     </main>
+  </body>
+</html>
