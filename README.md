@@ -109,10 +109,9 @@
         </p>
       </section>
       <section>
-        <h3>Grafico</h3>
         <p>
           <img
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&custom-title=Linguagens%20%mais%20%utilizadas"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&custom_title=Linguagens%20%mais%20%utilizadas"
             alt="prsonda"
           />
         </p>
