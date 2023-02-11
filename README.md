@@ -106,13 +106,49 @@
               height="60"
             />
           </a>
+          <a
+            href="https://www.typescriptlang.org/docs/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <img
+              src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"
+              alt="Typescript "
+              width="60"
+              height="60"
+            />
+          </a>
+           <a
+            href="https://www.npmjs.com/package/bcrypt"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <img
+              src="https://img.stackshare.io/package/19054/default_2be036aaca5c71baf790e00f1ef80dd37a625905.png"
+              alt="bcrypt "
+              width="60"
+              height="60"
+            />
+          </a>
+          <a
+            href="https://axios-http.com/ptbr/docs/instance"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <img
+              src="https://axios-http.com/assets/logo.svg"
+              alt="axios"
+              width="100"
+              height="60"
+            />
+          </a>
         </p>
       </section>
       <section>
         <p>
           <img
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=prsonda&layout=compact&custom_title=Linguagens%20%mais%20%utilizadas&theme=dracula"
-            alt="prsonda"
+            alt="Linguagens Utilizadas"
           />
         </p>
       </section>
