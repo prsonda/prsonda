@@ -131,7 +131,7 @@
             />
           </a>
           <a
-            href="https://axios-http.com/ptbr/docs/instance"
+            href="https://axios-http.com/ptbr/docs/intro"
             target="_blank"
             rel="noreferrer"
           >
