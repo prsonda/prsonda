@@ -66,6 +66,14 @@
               height="60"
             />
           </a>
+          <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+            <img
+              src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png"
+              alt="mysql"
+              width="60"
+              height="60"
+            />
+          </a>
           <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
             <img
               src="https://wsofter.com/wp-content/uploads/2017/12/node-express.png"
