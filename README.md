@@ -6,17 +6,15 @@
       </section>
       <section>
         <p>
-          Meu nome é <strong>Paulo</strong> sou paranaense do interior,
-          apreciador de doces, gosto de filmes e séries de ficção científica.
+          Paranaense do interior, apreciador de doces, gosto de filmes e séries de ficção cientifica.
         </p>
         <p>
-          Sempre apaixonado por tecnologia, atualmente estudando Desenvolvimento
-          de Software <strong>Back-end Node</strong> na Cubos Academy e Técnico
-          em Informática para Internet no IFSULDEMINAS.
+          Atuando como desenvolvedor backend.
+        <p>
+          Apaixonado por tecnologia, atualmente estudando Desenvolvimento de Software <strong>Back-end Nodejs</strong>  na Cubos Academy e Técnico em Informática para Internet no IFSULDEMINAS, formado em Administração pela UNIASSELVI.
         </p>
         <p>
-          Formado em administração, carreira desenvolvida na área de gestão como
-          gerente, coordenador e supervisor.
+          Conhecimento na linguagem Typescript e Javascript com Nodejs, construção de APIs REST com Express, PostgreSQL, criptografia com Bcrypt e JWT, conexão com APIs de terceiros com Axios.
         </p>
       </section>
       <section>
