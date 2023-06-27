@@ -11,10 +11,10 @@
         <p>
           Atuando como desenvolvedor backend.
         <p>
-          Apaixonado por tecnologia, atualmente estudando Desenvolvimento de Software <strong>Back-end Nodejs</strong>  na Cubos Academy e Técnico em Informática para Internet no IFSULDEMINAS, formado em Administração pela UNIASSELVI.
+          Apaixonado por tecnologia, formado Desenvolvedor de Software <strong>Back-end Nodejs</strong>  pela Cubos Academy e em Administração pela UNIASSELVI, atualmente estudando Técnico em Informática para Internet no IFSULDEMINAS.
         </p>
         <p>
-          Conhecimento na linguagem Typescript e Javascript com Nodejs, construção de APIs REST com Express, PostgreSQL, criptografia com Bcrypt e JWT, conexão com APIs de terceiros com Axios.
+          Conhecimento na linguagem Typescript e Javascript com Nodejs, construção de APIs REST com Express, PostgreSQL, criptografia com Bcrypt e JWT, conexão com APIs de terceiros com Axios e documentação com Swagger.
         </p>
       </section>
       <section>
@@ -35,7 +35,7 @@
               width="60"
           /></a>
           <a
-            href="https://api.whatsapp.com/send?phone=5541988649142"
+            href="https://api.whatsapp.com/send?phone=5516991867675"
             target="blank"
             ><img
               src="https://logodownload.org/wp-content/uploads/2015/04/whatsapp-logo-png-0.png"
