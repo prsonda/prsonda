@@ -11,10 +11,10 @@
         <p>
           Atuando como desenvolvedor backend.
         <p>
-          Apaixonado por tecnologia, formado Desenvolvedor de Software <strong>Back-end Nodejs</strong>  pela Cubos Academy e em Administração pela UNIASSELVI, atualmente estudando Técnico em Informática para Internet no IFSULDEMINAS.
+          Apaixonado por tecnologia, formado Desenvolvedor de Software <strong>Back-end Nodejs</strong> pela Cubos Academy, Técnico em Informática para Internet no IFSULDEMINAS e em Administração pela UNIASSELVI.
         </p>
         <p>
-          Conhecimento na linguagem Typescript e Javascript com Nodejs, construção de APIs REST com Express, PostgreSQL, criptografia com Bcrypt e JWT, conexão com APIs de terceiros com Axios e documentação com Swagger.
+          Conhecimento na linguagem Typescript e Javascript com Nodejs, construção de APIs REST com Express, NestJs, AdonisJs, PostgreSQL, criptografia com Bcrypt e JWT, CI/CD com GitHub Actions, Docker, testes com Jest, conexão com APIs de terceiros com Axios e documentação com Swagger.
         </p>
       </section>
       <section>
@@ -52,6 +52,38 @@
             <img
               src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"
               alt="nodejs "
+              width="60"
+              height="60"
+            />
+          </a>
+           <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+            <img
+              src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg"
+              alt="Nestjs"
+              width="60"
+              height="60"
+            />
+          </a>
+          <a href="https://adonisjs.com/" target="_blank" rel="noreferrer">
+            <img
+              src="https://avatars.githubusercontent.com/u/13810373?s=280&v=4"
+              alt="Adonisjs"
+              width="60"
+              height="60"
+            />
+          </a>
+          <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
+            <img
+              src="https://prismalens.vercel.app/header/logo-dark.svg"
+              alt="Prisma ORM"
+              width="60"
+              height="60"
+            />
+          </a>
+           <a href="https://legacy.adonisjs.com/docs/4.0/lucid" target="_blank" rel="noreferrer">
+            <img
+              src="https://legacy.adonisjs.com/images/badge.svg"
+              alt="Lucid ORM"
               width="60"
               height="60"
             />
