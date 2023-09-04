@@ -14,7 +14,7 @@
           Apaixonado por tecnologia, formado Desenvolvedor de Software <strong>Back-end Nodejs</strong> pela Cubos Academy, Técnico em Informática para Internet no IFSULDEMINAS e em Administração pela UNIASSELVI.
         </p>
         <p>
-          Conhecimento na linguagem Typescript e Javascript com Nodejs, construção de APIs REST com Express, NestJs, AdonisJs, PostgreSQL, criptografia com Bcrypt e JWT, CI/CD com GitHub Actions, Docker, testes com Jest, conexão com APIs de terceiros com Axios e documentação com Swagger.
+          Conhecimento na linguagem Typescript e Javascript com Nodejs, construção de APIs REST com Express, NestJs, AdonisJs, PostgreSQL, MySQL, criptografia com Bcrypt e JWT, CI/CD com GitHub Actions, Docker, testes com Jest, conexão com APIs de terceiros com Axios e documentação com Swagger.
         </p>
       </section>
       <section>
