@@ -74,7 +74,7 @@
           </a>
           <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
             <img
-              src="https://prismalens.vercel.app/header/logo-dark.svg"
+              src="https://avatars.githubusercontent.com/u/17219288?s=280&v=4"
               alt="Prisma ORM"
               width="60"
               height="60"
