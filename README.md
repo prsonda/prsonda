@@ -14,7 +14,7 @@
           Apaixonado por tecnologia, formado Desenvolvedor de Software <strong>Back-end Nodejs</strong> pela Cubos Academy, Técnico em Informática para Internet no IFSULDEMINAS e em Administração pela UNIASSELVI.
         </p>
         <p>
-          Conhecimento na linguagem Typescript e Javascript com Nodejs, construção de APIs REST com Express, NestJs, AdonisJs, PostgreSQL, MySQL, criptografia com Bcrypt e JWT, CI/CD com GitHub Actions, Docker, testes com Jest, conexão com APIs de terceiros com Axios e documentação com Swagger.
+          Conhecimento em Typescript, Javascript, Nodejs, construção de APIs REST (Express, NestJs, PrismaORM), segurança (Bcrypt, JWT), integração (Axios, Swagger), controle de versão (Git), e gerenciamento de projetos (GitHub, Clickup).
         </p>
       </section>
       <section>
@@ -51,7 +51,7 @@
           <a href="https://nodejs.org" target="_blank" rel="noreferrer">
             <img
               src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"
-              alt="nodejs "
+              alt="nodejs"
               width="60"
               height="60"
             />
@@ -64,26 +64,10 @@
               height="60"
             />
           </a>
-          <a href="https://adonisjs.com/" target="_blank" rel="noreferrer">
-            <img
-              src="https://avatars.githubusercontent.com/u/13810373?s=280&v=4"
-              alt="Adonisjs"
-              width="60"
-              height="60"
-            />
-          </a>
           <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
             <img
               src="https://avatars.githubusercontent.com/u/17219288?s=280&v=4"
               alt="Prisma ORM"
-              width="60"
-              height="60"
-            />
-          </a>
-           <a href="https://legacy.adonisjs.com/docs/4.0/lucid" target="_blank" rel="noreferrer">
-            <img
-              src="https://legacy.adonisjs.com/images/badge.svg"
-              alt="Lucid ORM"
               width="60"
               height="60"
             />
@@ -108,26 +92,6 @@
             <img
               src="https://wsofter.com/wp-content/uploads/2017/12/node-express.png"
               alt="express"
-              width="60"
-              height="60"
-            />
-          </a>
-          <a href="https://www.w3.org/html/" target="\_blank" rel="noreferrer">
-            <img
-              src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png"
-              alt="html5"
-              width="60"
-              height="60"
-            />
-          </a>
-          <a
-            href="https://www.w3schools.com/css/"
-            target="_blank"
-            rel="noreferrer"
-          >
-            <img
-              src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"
-              alt="css3"
               width="60"
               height="60"
             />
@@ -163,7 +127,7 @@
           >
             <img
               src="https://img.stackshare.io/package/19054/default_2be036aaca5c71baf790e00f1ef80dd37a625905.png"
-              alt="bcrypt "
+              alt="bcrypt"
               width="60"
               height="60"
             />
@@ -176,6 +140,18 @@
             <img
               src="https://axios-http.com/assets/logo.svg"
               alt="axios"
+              width="100"
+              height="60"
+            />
+          </a>
+          <a
+            href="https://swagger.io/tools/swagger-ui/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <img
+              src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg"
+              alt="swagger"
               width="100"
               height="60"
             />
