@@ -121,7 +121,7 @@
             />
           </a>
            <a
-            href="https://www.npmjs.com/package/bcrypt"
+            href="https://github.com/kelektiv/node.bcrypt.js"
             target="_blank"
             rel="noreferrer"
           >
