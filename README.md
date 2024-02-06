@@ -97,7 +97,7 @@
             />
           </a>
           <a
-            href="https://developer.mozilla.org/en-US /docs/Web/JavaScript"
+            href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"
             target="_blank"
             rel="noreferrer"
           >
