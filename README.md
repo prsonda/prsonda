@@ -5,17 +5,21 @@
         <h1>Olá pessoal.</h1>
       </section>
       <section>
-        <p>
-          Paranaense do interior, apreciador de doces, gosto de filmes e séries de ficção cientifica.
-        </p>
-        <p>
-          Atuando como desenvolvedor backend.
-        <p>
-          Apaixonado por tecnologia, formado Desenvolvedor de Software <strong>Back-end Nodejs</strong> pela Cubos Academy, Técnico em Informática para Internet no IFSULDEMINAS e em Administração pela UNIASSELVI.
-        </p>
-        <p>
-          Conhecimento em Typescript, Javascript, Nodejs, construção de APIs REST (Express, NestJs, PrismaORM), segurança (Bcrypt, JWT), integração (Axios, Swagger), controle de versão (Git), e gerenciamento de projetos (GitHub, Clickup).
-        </p>
+<p>
+  Desenvolvedor Back-End focado em construir soluções robustas, seguras e escaláveis com <strong>Node.js</strong>, <strong>NestJS</strong> e <strong>TypeScript</strong>.
+</p>
+<p>
+  Atuo na criação e manutenção de APIs REST voltadas para <strong>gateways de pagamento (PIX)</strong>, <strong>plataformas de apostas</strong>, <strong>loterias</strong> e <strong>sistemas de gestão</strong>. Tenho experiência com <strong>PostgreSQL (Prisma ORM)</strong>, <strong>MongoDB</strong>, <strong>Redis</strong> e mensageria com <strong>RabbitMQ</strong>, sempre buscando performance e alta disponibilidade.
+</p>
+<p>
+  Implemento autenticação e autorização com <strong>JWT</strong>, <strong>Bcrypt</strong>, <strong>SHA-256</strong> e permissões dinâmicas. Realizo integrações com APIs externas e mantenho a documentação atualizada via <strong>Swagger</strong>. Versionamento e colaboração em equipe com <strong>Git</strong> e <strong>GitHub</strong>.
+</p>
+<p>
+  Formado em Administração, Técnico em Informática para Internet e com curso profissionalizante em Desenvolvimento Back-End com Node.js.
+</p>
+<p>
+  Comprometido em evoluir constantemente como desenvolvedor e entregar soluções eficientes, estáveis e seguras.
+</p>
       </section>
       <section>
         <h3>Para me encontrar</h3>
