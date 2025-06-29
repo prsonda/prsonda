@@ -52,7 +52,7 @@
       <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS" width="60" height="60" />
     </a>
     <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
-      <img width="366" height="60" src="http://made-with.prisma.io/dark.svg" alt="PrismaORM" />
+      <img width="122" height="60" src="https://raw.githubusercontent.com/prisma/presskit/main/Assets/Preview-Prisma-LightLogo.png" alt="PrismaORM" />
     </a>
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" alt="PostgreSQL" width="60" height="60" />
