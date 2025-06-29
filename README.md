@@ -46,13 +46,27 @@
   <h3>Hard Skills</h3>
   <p>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" width="60" height="60" />
+      <img src="https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logoColor=FFFFFF&color=000000" alt="Node.js" height="60">
     </a>
     <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-      <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS" width="60" height="60" />
+      <img src="https://img.shields.io/badge/-NestJS-000000?style=for-the-badge&logoColor=FFFFFF&color=000000" alt="NestJS" height="60">
     </a>
     <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/prisma/presskit/main/Assets/Preview-Prisma-LightLogo.png" alt="PrismaORM" height="60" style="width:auto;" />
+        <span style="
+          display: inline-block;
+          height: 60px;
+          line-height: 60px;
+          background-color: #000000;
+          color: #FFFFFF;
+          padding: 0 20px;
+          border-radius: 12px;
+          font-family: 'Segoe UI', sans-serif;
+          font-size: 22px;
+          font-weight: 500;
+          user-select: none;
+        ">
+          PrismaORM
+       </span>
     </a>
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" alt="PostgreSQL" width="60" height="60" />
