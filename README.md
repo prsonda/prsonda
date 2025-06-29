@@ -52,39 +52,25 @@
       <img src="https://img.shields.io/badge/-NestJS-000000?style=for-the-badge&logoColor=FFFFFF&color=000000" alt="NestJS" height="60">
     </a>
     <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
-        <span style="
-          display: inline-block;
-          height: 60px;
-          line-height: 60px;
-          background-color: #000000;
-          color: #FFFFFF;
-          padding: 0 20px;
-          border-radius: 12px;
-          font-family: 'Segoe UI', sans-serif;
-          font-size: 22px;
-          font-weight: 500;
-          user-select: none;
-        ">
-          PrismaORM
-       </span>
+      <img src="https://img.shields.io/badge/-PrismaORM-000000?style=for-the-badge&logoColor=FFFFFF&color=000000" alt="PrismaORM" height="60">
     </a>
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" alt="PostgreSQL" width="60" height="60" />
+      <img src="https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logoColor=FFFFFF&color=000000" alt="PostgreSQL" height="60">
     </a>
     <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" alt="Express" width="60" height="60" />
+      <img src="https://img.shields.io/badge/-ExpressJS-000000?style=for-the-badge&logoColor=FFFFFF&color=000000" alt="ExpressJS" height="60">
     </a>
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="60" height="60" />
+      <img src="https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logoColor=FFFFFF&color=000000" alt="JavaScript" height="60">
     </a>
     <a href="https://www.typescriptlang.org/docs/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript" width="60" height="60" />
+      <img src="https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logoColor=FFFFFF&color=000000" alt="TypeScript" height="60">
     </a>
     <a href="https://github.com/kelektiv/node.bcrypt.js" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/-Bcrypt-000000?style=for-the-badge&logoColor=FFFFFF&color=000000" alt="bcrypt" height="60">
     </a>
     <a href="https://jwt.io/" target="_blank" rel="noreferrer">
-      <img src="https://jwt.io/img/pic_logo.svg" alt="JWT" width="60" height="60" />
+      <img src="https://img.shields.io/badge/-jsonwebtoken-000000?style=for-the-badge&logoColor=FFFFFF&color=000000" alt="jsonwebtoken" height="60">
     </a>
     <a href="https://redis.io/" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/-Redis-000000?style=for-the-badge&logoColor=FFFFFF&color=000000" alt="Redis" height="60">
@@ -96,7 +82,7 @@
       <img src="https://img.shields.io/badge/-Swagger-000000?style=for-the-badge&logoColor=FFFFFF&color=000000" alt="Swagger" height="60">
     </a>
     <a href="https://github.com/" target="_blank" rel="noreferrer">
-      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="60" height="60" />
+      <img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logoColor=FFFFFF&color=000000" alt="GitHub" height="60">
     </a>
   </p>
 </section>
