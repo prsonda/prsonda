@@ -66,26 +66,9 @@
     <a href="https://www.typescriptlang.org/docs/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript" width="60" height="60" />
     </a>
-    <a href="https://github.com/kelektiv/node.bcrypt.js" target="_blank" rel="noreferrer">
-      <span style="
-  display: inline-block;
-  height: 60px;
-  line-height: 60px;
-  font-weight: 300;
-  font-family: Arial, sans-serif;
-  font-size: 36px;
-  color: #D2691E;
-  background-color: #F5F5DC;
-  padding: 0 15px;
-  border-radius: 8px;
-  user-select: none;
-  vertical-align: middle;
-  white-space: nowrap;
-  letter-spacing: 1.5px;
-">
-  bcrypt
-</span>
-    </a>
+   <a href="https://github.com/kelektiv/node.bcrypt.js" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/bcrypt-F5F5DC?style=for-the-badge&logoColor=D2691E&labelColor=F5F5DC&color=F5F5DC&label=bcrypt" alt="bcrypt" height="60">
+   </a>
     <a href="https://jwt.io/" target="_blank" rel="noreferrer">
       <img src="https://jwt.io/img/pic_logo.svg" alt="JWT" width="60" height="60" />
     </a>
