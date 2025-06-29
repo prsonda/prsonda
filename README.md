@@ -49,127 +49,53 @@
           /></a>
         </p>
       </section>
-      <section>
-        <h3>Hards Skills</h3>
-        <p>
-          <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-            <img
-              src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"
-              alt="nodejs"
-              width="60"
-              height="60"
-            />
-          </a>
-           <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-            <img
-              src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg"
-              alt="Nestjs"
-              width="60"
-              height="60"
-            />
-          </a>
-          <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
-            <img
-              src="https://avatars.githubusercontent.com/u/17219288?s=280&v=4"
-              alt="Prisma ORM"
-              width="60"
-              height="60"
-            />
-          </a>
-          <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-            <img
-              src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"
-              alt="postgresql"
-              width="60"
-              height="60"
-            />
-          </a>
-          <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-            <img
-              src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png"
-              alt="mysql"
-              width="60"
-              height="60"
-            />
-          </a>
-          <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-            <img
-              src="https://wsofter.com/wp-content/uploads/2017/12/node-express.png"
-              alt="express"
-              width="60"
-              height="60"
-            />
-          </a>
-          <a
-            href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"
-            target="_blank"
-            rel="noreferrer"
-          >
-            <img
-              src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png"
-              alt="javascript"
-              width="60"
-              height="60"
-            />
-          </a>
-          <a
-            href="https://www.typescriptlang.org/docs/"
-            target="_blank"
-            rel="noreferrer"
-          >
-            <img
-              src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"
-              alt="Typescript "
-              width="60"
-              height="60"
-            />
-          </a>
-           <a
-            href="https://github.com/kelektiv/node.bcrypt.js"
-            target="_blank"
-            rel="noreferrer"
-          >
-            <img
-              src="https://img.stackshare.io/package/19054/default_2be036aaca5c71baf790e00f1ef80dd37a625905.png"
-              alt="bcrypt"
-              width="60"
-              height="60"
-            />
-          </a>
-          <a
-            href="https://axios-http.com/ptbr/docs/intro"
-            target="_blank"
-            rel="noreferrer"
-          >
-            <img
-              src="https://axios-http.com/assets/logo.svg"
-              alt="axios"
-              width="100"
-              height="60"
-            />
-          </a>
-          <a
-            href="https://swagger.io/tools/swagger-ui/"
-            target="_blank"
-            rel="noreferrer"
-          >
-            <img
-              src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg"
-              alt="swagger"
-              width="100"
-              height="60"
-            />
-          </a>
-        </p>
-      </section>
-      <section>
-        <p>
-          <img
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=prsonda&layout=compact&custom_title=Linguagens%20%mais%20%utilizadas&theme=dracula"
-            alt="Linguagens Utilizadas"
-          />
-        </p>
-      </section>
+<section>
+  <h3>Hard Skills</h3>
+  <p>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="60" height="60" />
+    </a>
+    <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+      <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS" width="60" height="60" />
+    </a>
+    <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
+      <img src="https://avatars.githubusercontent.com/u/17219288?s=280&v=4" alt="Prisma ORM" width="60" height="60" />
+    </a>
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" width="60" height="60" />
+    </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968314.png" alt="MySQL" width="60" height="60" />
+    </a>
+    <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express" width="60" height="60" />
+    </a>
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript" width="60" height="60" />
+    </a>
+    <a href="https://www.typescriptlang.org/docs/" target="_blank" rel="noreferrer">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" width="60" height="60" />
+    </a>
+    <a href="https://github.com/kelektiv/node.bcrypt.js" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/kelektiv/node.bcrypt.js/master/docs/logo.png" alt="Bcrypt" width="60" height="60" />
+    </a>
+    <a href="https://jwt.io/" target="_blank" rel="noreferrer">
+      <img src="https://jwt.io/img/pic_logo.svg" alt="JWT" width="60" height="60" />
+    </a>
+    <a href="https://redis.io/" target="_blank" rel="noreferrer">
+      <img src="https://redis.io/images/redis-white.svg" alt="Redis" width="60" height="60" />
+    </a>
+    <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer">
+      <img src="https://www.rabbitmq.com/img/rabbitmq_logo.svg" alt="RabbitMQ" width="60" height="60" />
+    </a>
+    <a href="https://swagger.io/tools/swagger-ui/" target="_blank" rel="noreferrer">
+      <img src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" alt="Swagger" width="100" height="60" />
+    </a>
+    <a href="https://github.com/" target="_blank" rel="noreferrer">
+      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="60" height="60" />
+    </a>
+  </p>
+</section>
     </main>
   </body>
 </html>
