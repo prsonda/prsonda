@@ -84,6 +84,52 @@
     <a href="https://github.com/" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logoColor=FFFFFF&color=000000" alt="GitHub" height="60">
     </a>
+    <a href="https://grpc.io/" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/-gRPC-000000?style=for-the-badge&logoColor=FFFFFF&color=000000" alt="gRPC" height="60">
+    </a>
+    <a href="https://microservices.io/" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/-Microservices-000000?style=for-the-badge&logoColor=FFFFFF&color=000000" alt="Microservices" height="60">
+    </a>
+    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/-AWS-000000?style=for-the-badge&logoColor=FFFFFF&color=000000" alt="AWS" height="60">
+    </a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logoColor=FFFFFF&color=000000" alt="Docker" height="60">
+    </a>
+    <a href="https://www.nginx.com/" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/-Nginx-000000?style=for-the-badge&logoColor=FFFFFF&color=000000" alt="Nginx" height="60">
+    </a>
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logoColor=FFFFFF&color=000000" alt="Linux" height="60">
+    </a>
+    <a href="https://martinfowler.com/bliki/DomainDrivenDesign.html" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/-DDD-000000?style=for-the-badge&logoColor=FFFFFF&color=000000" alt="DDD" height="60">
+    </a>
+    <a href="https://alistair.cockburn.us/hexagonal-architecture/" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/-Hexagonal_Architecture-000000?style=for-the-badge&logoColor=FFFFFF&color=000000" alt="Hexagonal Architecture" height="60">
+    </a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logoColor=FFFFFF&color=000000" alt="MongoDB" height="60">
+    </a>
+    <a href="https://en.wikipedia.org/wiki/Role-based_access_control" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/-RBAC-000000?style=for-the-badge&logoColor=FFFFFF&color=000000" alt="RBAC" height="60">
+    </a>
+    <a href="https://en.wikipedia.org/wiki/Transport_Layer_Security" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/-TLS-000000?style=for-the-badge&logoColor=FFFFFF&color=000000" alt="TLS" height="60">
+    </a>
+    <a href="https://en.wikipedia.org/wiki/Rate_limiting" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/-Rate_Limiting-000000?style=for-the-badge&logoColor=FFFFFF&color=000000" alt="Rate Limiting" height="60">
+    </a>
+    <a href="https://opentelemetry.io/" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/-Observability-000000?style=for-the-badge&logoColor=FFFFFF&color=000000" alt="Observability" height="60">
+    </a>
+    <a href="https://swagger.io/specification/" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/-OpenAPI-000000?style=for-the-badge&logoColor=FFFFFF&color=000000" alt="OpenAPI" height="60">
+    </a>
+    <a href="https://martinfowler.com/bliki/BackendForFrontend.html" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/-BFF-000000?style=for-the-badge&logoColor=FFFFFF&color=000000" alt="BFF" height="60">
+    </a>
+
   </p>
 </section>
     </main>
