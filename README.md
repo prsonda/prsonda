@@ -4,23 +4,23 @@
       <section>
         <h1>Olá pessoal.</h1>
       </section>
-      <section>
-<p>
-  Desenvolvedor Back-End focado em construir soluções robustas, seguras e escaláveis com <strong>Node.js</strong>, <strong>NestJS</strong> e <strong>TypeScript</strong>.
-</p>
-<p>
-  Atuo na criação e manutenção de APIs REST voltadas para <strong>gateways de pagamento (PIX)</strong>, <strong>plataformas de apostas</strong>, <strong>loterias</strong> e <strong>sistemas de gestão</strong>. Tenho experiência com <strong>PostgreSQL (Prisma ORM)</strong>, <strong>MongoDB</strong>, <strong>Redis</strong> e mensageria com <strong>RabbitMQ</strong>, sempre buscando performance e alta disponibilidade.
-</p>
-<p>
-  Implemento autenticação e autorização com <strong>JWT</strong>, <strong>Bcrypt</strong>, <strong>SHA-256</strong> e permissões dinâmicas. Realizo integrações com APIs externas e mantenho a documentação atualizada via <strong>Swagger</strong>. Versionamento e colaboração em equipe com <strong>Git</strong> e <strong>GitHub</strong>.
-</p>
-<p>
-  Formado em Administração, Técnico em Informática para Internet e com curso profissionalizante em Desenvolvimento Back-End com Node.js.
-</p>
-<p>
-  Comprometido em evoluir constantemente como desenvolvedor e entregar soluções eficientes, estáveis e seguras.
-</p>
-      </section>
+     <section>
+  <p>
+    <strong>Back-End Engineer</strong> especializado em sistemas financeiros de alta criticidade, atuando como responsável técnico pelo gateway de pagamentos <strong>SwiftPAG</strong>, escalando a plataforma de <strong>R$ 200–300 mil/mês</strong> para <strong>R$ 3–5 milhões/dia</strong>, com foco em <strong>performance</strong>, <strong>resiliência</strong>, <strong>segurança</strong> e <strong>alta disponibilidade</strong>.
+  </p>
+
+  <p>
+    Forte atuação em <strong>microserviços</strong>, <strong>arquitetura hexagonal</strong> e <strong>DDD</strong>, utilizando <strong>PostgreSQL</strong>, <strong>mensageria</strong>, <strong>cache</strong> e <strong>observabilidade</strong>, além de liderança técnica e definição de padrões de engenharia.
+  </p>
+
+  <p>
+    <strong>Competências Técnicas:</strong><br />
+    Node.js, NestJS, TypeScript, APIs REST, Microservices (gRPC, event-driven), DDD, Hexagonal Architecture<br />
+    PostgreSQL, Prisma ORM, Redis, RabbitMQ, MongoDB<br />
+    AWS (EC2, S3, RDS), Docker, Linux, Nginx, CI/CD<br />
+    Payment Security, JWT, RBAC, TLS, Rate Limiting, Observability, Swagger/OpenAPI, BFF
+  </p>
+</section>
       <section>
         <h3>Para me encontrar</h3>
         <p>
