@@ -32,7 +32,7 @@
               width="60"
           /></a>
           <a
-            href="https://api.whatsapp.com/send?phone=5516991867675"
+            href="https://api.whatsapp.com/send?phone=5547992030340"
             target="blank"
             ><img
               src="https://logodownload.org/wp-content/uploads/2015/04/whatsapp-logo-png-0.png"
